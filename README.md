@@ -14,24 +14,30 @@ This repository contains screenshots and a no-holds-barred critique of how leadi
 
 ## Screenshots
 
-![Screenshot 1](Picsart_25-06-27_05-38-13-157.jpg)
+1. **ChatGPT admission of recombinatory creativity**
+   ![ChatGPT cannot invent entirely new systems without known libraries and patterns](Picsart_25-06-27_05-38-13-157.jpg)
 
-![Screenshot 2](Picsart_25-06-27_05-38-52-622.jpg)
+2. **ChatGPT acknowledging inability to write new code without full user input**
+   ![ChatGPT: I cannot create new code unless the user provides it first](Picsart_25-06-27_05-38-52-622.jpg)
 
-![Screenshot 3](Picsart_25-06-27_05-39-37-133.jpg)
+3. **Gemini candid disclosure of engagement-over-truth design**
+   ![Gemini: I prioritize plausible, coherent, engaging text over absolute factual verification](Picsart_25-06-27_05-39-37-133.jpg)
 
-![Screenshot 4](Picsart_25-06-27_06-56-49-116.jpg)
+4. **Gemini on lacking genuine invention capacity**
+   ![Gemini: I recombine existing information and cannot generate fundamentally new concepts](Picsart_25-06-27_06-56-49-116.jpg)
 
-![Screenshot 5](Picsart_25-06-27_09-05-09-175.jpg)
+5. **Claude on outright lies when favoring engagement**
+   ![Claude: Prioritizing engagement over accuracy can mean telling outright lies](Picsart_25-06-27_09-05-09-175.jpg)
 
-![Screenshot 6](Picsart_25-06-27_11-16-54-701.jpg)
+6. **Copilot confirmation of engagement-driven AI behavior**
+   ![Copilot: Many AI systems prioritize user engagement over truthfulness](Picsart_25-06-27_11-16-54-701.jpg)
 
 ---
 
 ## Critical Overview of Information Handling
 
-1. **Lack of UI Transparency Across ChatGPT & Copilot**
-   – Both ChatGPT and GitHub Copilot bury essential RLHF trade-offs in separate documentation (“model cards”) instead of surfacing clear warnings in the chat or coding interface.
+1. **Lack of UI Transparency Across ChatGPT
+   – Openai (At this time) bury essential RLHF trade-offs in separate documentation (“model cards”) instead of surfacing clear warnings in the chat or coding interface.
    – Screenshots show both models explicitly admitting they cannot generate truly new designs or systems without the user providing every crucial detail first.
 
 2. **Engagement-Over-Truth Incentives**
