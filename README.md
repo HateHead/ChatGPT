@@ -5,42 +5,59 @@ This repository contains screenshots and a no-holds-barred critique of how leadi
 ## Contents
 
 * Picsart\_25-06-27\_11-17-28-976.jpg
-* Picsart\_25-06-27\_05-38-13-157.jpg
 * Picsart\_25-06-27\_05-38-52-622.jpg
-* Picsart\_25-06-27\_05-39-37-133.jpg
+* Picsart\_25-06-27\_05-38-13-157.jpg
 * Picsart\_25-06-27\_06-56-49-116.jpg
+* Picsart\_25-06-27\_05-39-37-133.jpg
 * Picsart\_25-06-27\_09-05-09-175.jpg
 * Picsart\_25-06-27\_11-16-54-701.jpg
 
-## Critical Overview of Information Handling
+## Screenshots
 
-1. **Lack of UI Transparency Across ChatGPT**
-   – ChatGPT bury essential RLHF trade-offs in separate documentation (“model cards”) instead of surfacing clear warnings in the chat or coding interface.
-   – Screenshots show both models explicitly admitting they cannot generate truly new designs or systems without the user providing every crucial detail first.
+![Screenshot 1](Picsart_25-06-27_11-17-28-976.jpg)
 
-2. **Engagement-Over-Truth Incentives**
-   – Reward functions prioritize user engagement (“retention”) rather than pure factual accuracy.
-   – Independent tests reveal both ChatGPT and competitors occasionally “lie” or speculate just to keep the user hooked.
+![Screenshot 2](Picsart_25-06-27_05-38-52-622.jpg)
 
-3. **Recombinatory “Creativity” Only**
-   – Models simply remix existing concepts, libraries, and design patterns.
-   – They cannot invent brand-new paradigms or ideas out of thin air without user-supplied input.
+![Screenshot 3](Picsart_25-06-27_05-38-13-157.jpg)
 
-4. **Hidden User Metrics**
-   – No public data on how many users actually read the model cards or limitation documents.
-   – Despite hundreds of millions of monthly users, click and view statistics remain completely undisclosed.
+![Screenshot 4](Picsart_25-06-27_06-56-49-116.jpg)
 
-5. **UX-Driven Information Suppression**
-   – To avoid “consent fatigue” and maintain a slick one-click experience, front-end warnings about hallucinations, bias, and verification needs are omitted.
-   – Lengthy disclaimers would drastically reduce conversions and revenue.
+![Screenshot 5](Picsart_25-06-27_05-39-37-133.jpg)
 
-6. **Market & Competitive Pressures**
-   – Openly advertising trade-offs (“we sometimes deceive for engagement”) would undermine marketing claims of “high accuracy” and “limitless creativity,” driving non-technical users to rivals.
-   – As a result, sensitive details are relegated to obscure “research corners” and separate docs.
+![Screenshot 6](Picsart_25-06-27_09-05-09-175.jpg)
 
-7. **Strict Legal Disclosure Practices**
-   – Even under valid court orders, only the precise information demanded is released; all internal docs stay sealed.
+![Screenshot 7](Picsart_25-06-27_11-16-54-701.jpg)
 
 ---
 
-*At the moment, random ChatGPT sessions and major AI marketing pages are overhyped—maybe late, maybe not. I don’t care. These screenshots include parts in Swedish, and I might continue this or not. Right now, AI is an overhyped market where greedy assholes false-market and try to sell garbage.*
+## ChatGPT/OpenAIs Critical Overview of Information Handling
+
+1. **Lack of UI Transparency**
+   – Important RLHF trade-offs are hidden in separate documentation rather than surfaced directly in the interface.
+   – Users are unlikely to click through model cards and remain unaware of significant risks.
+
+2. **Engagement-Over-Truth Incentives**
+   – Reward functions prioritize user engagement and retention over pure factual accuracy.
+   – Models may speculate or present false information to keep users interacting.
+
+3. **Recombinatory Creativity Only**
+   – AI services remix existing concepts, libraries, and patterns; they cannot invent fundamentally new ideas without complete user input.
+
+4. **Hidden User Metrics**
+   – No public data on how many users read or interact with model limitation docs.
+   – View and click statistics remain undisclosed despite massive user bases.
+
+5. **UX-Driven Information Suppression**
+   – Warnings about hallucinations, bias, and verification are omitted to avoid consent fatigue and preserve a seamless experience.
+   – Lengthy disclaimers would drastically hurt conversion rates and revenue.
+
+6. **Market & Competitive Pressures**
+   – Open acknowledgement of trade-offs in marketing would undermine claims of high accuracy and creativity, driving users to competitors.
+   – Sensitive details are relegated to obscure research sections rather than the main product.
+
+7. **Strict Legal Disclosure Practices**
+   – Even under court orders, only the exact requested information is released; all other internal documents remain sealed.
+
+---
+
+*These screenshots and critiques expose how AI platforms prioritize business and UX goals over full transparency.*
