@@ -6,6 +6,7 @@ Detta repository innehåller skärmdumpar och en kritisk genomgång av hur OpenA
 
 ## Innehåll
 
+* Picsart\_25-06-27\_11-17-28-976.jpg
 * Picsart\_25-06-27\_05-38-13-157.jpg
 * Picsart\_25-06-27\_05-38-52-622.jpg
 * Picsart\_25-06-27\_05-39-37-133.jpg
