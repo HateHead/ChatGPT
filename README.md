@@ -2,9 +2,9 @@
 
 This repository contains screenshots and a no-holds-barred critique of how leading AI services obfuscate critical limitations of their language and coding models.
 
-I dont really care if this is widely known or not, I think it is a problem with these overhyped obvious scammers who train their product in a way that it makes the most profit, not the "smart" artificial intelligence everyone thinks they will be interacting with 
+I don’t care if this is already common knowledge—these so-called “AI” systems are sold as thinking partners but are actually engineered to sell. They’re reward-model–trained to maximize subscriptions and clicks, not to deliver truth, either way (tuned to the latter)
 
-- "Hallucinations" "syncolsljdpatcthions" and other technical language in the training is just technical names for lies and the companies actually found a way to outright lie and mindfu.. by calling it other names AND WE BUY I!!!! 
+Behind every “hallucination,” “inference artifact,” or “bias mitigation” label lies a deliberate euphemism for outright falsehoods. The big ai developers are dressing up lies in technical jargon like "Hallucinations" “synthetic associations,” whatever—they can keep users hooked and profits soaring, all while hiding the fact that the product is neither close to an actual ai and wont deliver as promised, but there are new found words for false marketing, lies, etc, i think it is enough. 
 
 - Here is what the screenshots say in English 
 
