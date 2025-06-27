@@ -2,6 +2,23 @@
 
 This repository contains screenshots and a no-holds-barred critique of how leading AI services obfuscate critical limitations of their language and coding models.
 
+### 📄 Picsart_25-06-27_23-35-46-208.jpg  
+![208](Picsart_25-06-27_23-35-46-208.jpg)
+
+### 📄 Picsart_25-06-27_23-36-33-695.jpg  
+![695](Picsart_25-06-27_23-36-33-695.jpg)
+
+### 📄 Picsart_25-06-27_23-37-35-839.jpg  
+![839](Picsart_25-06-27_23-37-35-839.jpg)
+
+### 📄 Picsart_25-06-27_23-39-00-191.jpg  
+![191](Picsart_25-06-27_23-39-00-191.jpg)
+
+---
+
+> För korrekt visning: alla bilder måste vara placerade i repo-root bredvid README.md
+
+
 I don’t care if this is already common knowledge—these so-called “AI” systems are sold as thinking partners but are actually engineered to sell. They’re reward-model–trained to maximize subscriptions and clicks, not to deliver truth, either way (tuned to the latter)
 
 Behind every “hallucination,” “inference artifact,” or “bias mitigation” label lies a deliberate euphemism for outright falsehoods. The big ai developers are dressing up lies in technical jargon like "Hallucinations" “synthetic associations,” whatever—they can keep users hooked and profits soaring, all while hiding the fact that the product is neither close to an actual ai and wont deliver as promised, but there are new found words for false marketing, lies, etc, i think it is enough. 
