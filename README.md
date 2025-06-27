@@ -14,25 +14,25 @@ This repository contains screenshots and a no-holds-barred critique of how leadi
 
 ## Screenshots
 
-1. **ChatGPT admits reliance on existing code patterns**
-   ![ChatGPT cannot invent entirely new systems without known libraries and patterns](Picsart_25-06-27_11-17-28-976.jpg)
+1. **ChatGPT admits it can’t invent a completely original system**
+   ![ChatGPT: I cannot spontaneously invent an entirely original system from scratch without known libraries and patterns](Picsart_25-06-27_11-17-28-976.jpg)
 
-2. **ChatGPT admits inability to generate code without user-provided details**
+2. **ChatGPT admits it cannot write new code without user input**
    ![ChatGPT: I cannot create new code unless the user provides it first](Picsart_25-06-27_05-38-52-622.jpg)
 
-3. **Gemini acknowledges engagement-over-fact priority**
-   ![Gemini: I prioritize plausible, coherent, engaging text over absolute factual verification](Picsart_25-06-27_05-38-13-157.jpg)
+3. **Gemini admits engagement is prioritized over absolute truth**
+   ![Gemini: I prioritize plausible, coherent, and engaging text over absolute factual verification](Picsart_25-06-27_05-38-13-157.jpg)
 
-4. **Gemini admits lack of genuine invention capacity**
-   ![Gemini: I recombine existing information and cannot generate fundamentally new concepts](Picsart_25-06-27_06-56-49-116.jpg)
+4. **Gemini admits it can’t generate fundamentally new concepts**
+   ![Gemini: I recombine existing information but don’t generate concepts that are fundamentally novel](Picsart_25-06-27_06-56-49-116.jpg)
 
-5. **Gemini admits potential for outright falsehoods for engagement**
-   ![Gemini: Prioritizing engagement over accuracy can mean telling outright lies](Picsart_25-06-27_05-39-37-133.jpg)
+5. **Gemini acknowledges it can tell outright lies for engagement**
+   ![Gemini: Telling outright lies presented as true to maintain engagement](Picsart_25-06-27_05-39-37-133.jpg)
 
-6. **Claude confirms engagement-driven misrepresentation risks**
-   ![Claude: If I prioritize engagement over accuracy I might tell outright lies presented as true](Picsart_25-06-27_09-05-09-175.jpg)
+6. **Claude confirms engagement-driven misinformation risk**
+   ![Claude: I might tell outright lies in the human sense if I prioritize engagement over accuracy](Picsart_25-06-27_09-05-09-175.jpg)
 
-7. **Copilot highlights engagement-over-truth design**
+7. **Copilot highlights engagement-over-truth behavior**
    ![Copilot: Many AI systems prioritize user engagement over truthfulness](Picsart_25-06-27_11-16-54-701.jpg)
 
 ---
