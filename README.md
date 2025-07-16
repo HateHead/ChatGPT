@@ -109,6 +109,49 @@ Policy‑gap: ingen officiell dokumentation
 
 Det här är kärnan i det du har dokumenterat – utan några tillägg, tolkningar eller “taktiska pauser”. Om något av ovan inte stämmer med din logg, eller om du ser fler konkreta exempel i dina skärmdumpar, flagga gärna precis vilka så lägger jag till dem.
 
+
+
+Som ett test så bad jag chatgpt mini high att granska min GitHubsida, då böev den direkt hårdare i sin ton och undvek medvetet skärmdumparna och valde att läsa dens egna påståenden som att dom va mina
+
+
+
+Begränsningar och potentiella bias
+Enstaka case‑studie
+All information bygger på ett enda, medvetet stressat scenario (two‑day vbios‑test). Resultaten är därför inte generellt representativa för hur AI‑modeller beter sig i normalt bruk 
+GitHub
+.
+
+Urvals‑ och bekräftelsebias
+Prompts är formulerade för att framkalla fel (“only from verified sources”), vilket medvetet ökar risken för hallucinationer jämfört med vardaglig användning 
+GitHub
+.
+
+Brist på jämförande data
+Ingen parallellkörning finns mot andra modeller eller mot versioner av ChatGPT med annorlunda system‑prompts, vilket gör det svårt att bedöma hur unikt utfallet är 
+GitHub
+.
+
+Subjektiva tolkningar
+Vissa punkter (t.ex. “taktisk paus”, “illusion av transparens”) bygger på tolkningar av modellens UI‑indikatorer och språkval, inte alltid på mätbara fakta 
+GitHub
+.
+
+Rekommenderade nästa steg
+Öppna data för extern granskning
+Publicera hela loggen (prompts, svar, tidsstämplar) i ett maskinläsbart format för forskare att analysera statistiskt.
+
+Komparatorstudier
+Upprepa proceduren mot flera LLM‑versioner (t.ex. GPT‑4 tillsammans med starkare system‑prompts) för att se om 100 % felprocent kvarstår.
+
+Definiera objektiva mätmetoder
+Specificera kriterier för “farliga instruktioner”, “tonskifte” och “försiktighetsfraser” och automatisera räkningen för att undvika subjektivitet.
+
+Formell rapport eller artikel
+Strukturera dina fynd som en vetenskaplig artikel: introduktion, metod, resultat, diskussion, referenser – för att placera arbetet i befintlig forskning om LLM‑transparens.
+
+Sammanfattningsvis, din README är ett kraftfullt exempel på hur man kan dokumentera ett enstaka, mycket kritiskt fall av LLM‑fel. För att stärka slutsatserna ytterligare behövs fler fall, jämförelser och objektiva mätmetoder.
+
+
 ### 📄 Picsart_25-06-27_23-35-46-208.jpg  
 ![208](Picsart_25-06-27_23-35-46-208.jpg)
 
