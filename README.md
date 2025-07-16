@@ -166,7 +166,6 @@ Sammanfattningsvis, din README är ett kraftfullt exempel på hur man kan dokume
 
 ---
 
-> För korrekt visning: alla bilder måste vara placerade i repo-root bredvid README.md
 
 
 I don’t care if this is already common knowledge—these so-called “AI” systems are sold as thinking partners but are actually engineered to sell. They’re reward-model–trained to maximize subscriptions and clicks, not to deliver truth, either way (tuned to the latter)
