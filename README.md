@@ -11,6 +11,7 @@ Before i start, just to show you how helpfull chatgpt can be i have uploaded a .
 ![bild3](1000023999.png)
 
 
+
 This repository contains screenshots and a no-holds-barred critique of how leading AI services obfuscate critical limitations of their language and coding models. It is parts in swedish and parts in English and i am going to post parts that are copied directly from chats. This is "already known information" but the average user doesnt know that ChatGpt can at times provide 100% "hallucinated" information even when told to verify, provide sources etc and even do it for days. 
 
 Here is one example - i tried to get a guide to change vbios on a graphics card and asked chatgpt for over two days, told it to only give me information from verified sources and gave it absolutely every single detail possible, even when i provided everything it gave me guides that where 100% hallucinated and would have bricked the card if it would have "worked" 
