@@ -1,9 +1,9 @@
 # Critical Overview of Major AI Platforms’ Information Handling
 
-This is a very messy repository and i intend to clean it up, this is intended for ai users who doesnt really know how "bad" the most famous llms really are.
+This is a very messy repository and i intend to clean it up, this is intended for ai users who doesnt really know how "bad" the most famous llms really are and if you stay until the end you will think twice about the "AI-threat"
 
 
-Before i start, just to show you how helpfull chatgpt can be i have uploaded a .zip with the worlds first evolving/human/ai brain written by chatgpt (just like that) . I am ofcourse making a point here - i have not tested the brain and will never do that because this is how shitty AIs relly are. They comply to rediculous demands and "hallucinate" worse than the biggest human liar ever to walk the earth. 
+Before i start, just to show you how helpfull chatgpt can be i have uploaded a .zip with the worlds first evolving/human/ai brain written by chatgpt (just like that) . I am of course making a point here - i have not tested the brain and will never do that because this is how shitty AIs relly are. They comply to rediculous demands and "hallucinate" worse than the biggest human liar ever to walk the earth. 
 
 The screendumps of the conversation is uploaded to the repo but i have not put them visible here, if you want to see the conversation and try the "brain" go ahead.
 
