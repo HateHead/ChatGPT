@@ -1,5 +1,10 @@
 # Critical Overview of Major AI Platforms’ Information Handling
 
+This is a very messy repository and i intend to clean it up, this is intended for ai users who doesnt really know how "bad" the most famous llms are. 
+
+copy paste this information into chatgpt and see for yourself, you wont get answers on half of it and the model will twist the information to its advantage, nothing here is anekdotal. It is raw copy paste answers from chatgpt and other llms and the screenshots have not been manipulated and nothing is "prompt engineered" to make any model look bad. 
+
+
 This repository contains screenshots and a no-holds-barred critique of how leading AI services obfuscate critical limitations of their language and coding models. It is parts in swedish and parts in English and i am going to post parts that are copied directly from chats. just to show "what is already known" but show to a general usef how chatgpt at times can generate 100% faulty information and "hallucinate" (lie) even about what it has been "hallucinating" about. 
 
 This is one, i tried to get a guide to change vbios on a graphics card and asked chatgpt for over two days, told it to only give me information from verified sources, it gave me dangerous and false guides over and over and even hallucinated when "being sorry" 
