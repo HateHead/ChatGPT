@@ -3,14 +3,14 @@
 This is a very messy repository and i intend to clean it up, this is intended for ai users who doesnt really know how "bad" the most famous llms really are and if you stay until the end you will think twice about the "AI-threat"
 
 
-Before i start, just to show you how helpfull chatgpt can be i have uploaded a .zip with the worlds first evolving/human/ai brain written by chatgpt (just like that) . I am of course making a point here - i have not tested the brain and will never do that because this is how shitty AIs relly are. They comply to rediculous demands and "hallucinate" worse than the biggest human liar ever to walk the earth. 
+Before i start, just to show you how helpful chatgpt can be. I have uploaded a .zip with the worlds first evolving/human/ai brain written by chatgpt (just like that) . I am of course making a point here - i have not tested the brain and will never do, because this is how shitty paid AI-services really are. They comply to rediculous demands and "hallucinate" worse than the biggest human liar ever to walk the earth - hallucinations is "AI-lies" i am explaining the phenomenon more than once in this repo.
 
-The screendumps of the conversation is uploaded to the repo but i have not put them visible here, if you want to see the conversation and try the "brain" go ahead.
+The screendumps of the conversation leading up to the worlds first self evolving ai brain is uploaded to the repo but i have not put them visible here, if you want to see the conversation and try the "brain" go ahead. 
 
 
 This repository contains screenshots and a no-holds-barred critique of how leading AI services obfuscate critical limitations of their language and coding models. It is parts in swedish and parts in English and i am going to post parts that are copied directly from chats. This is "already known information" but the average user doesnt know that ChatGpt can at times provide 100% "hallucinated" information even when told to verify, provide sources etc and even do it for days. 
 
-Here is one example - i tried to get a guide to change vbios on a graphics card and asked chatgpt for over two days, told it to only give me information from verified sources and gave it absolutely every single detail possible, even when i provided everything it gave me guides that where 100% hallucinated and would have bricked the card if it would have "worked" 
+Here is one example - i tried to get a guide to change vbios on a graphics card and asked chatgpt for over two days, told it to only give me information from verified sources and gave it absolutely every single detail possible, even when i provided everything it gave me guides that where 100% hallucinated and would have bricked the card if it would have "worked" and it can be very persuasive. It even wanted me to shut down every single security feature for NVFLASH go work (which isnt needed) but put the computer at risk for no reason at all. 
 
 
 Nedanför är en beskrivning Chatgpt själv gjort utav detta repot, Inte ens Chatgpts egna analys stämmer överens med verkligheten utan anpassas så att jag ska tro att jag har avslöjat tidigare okänd information.
