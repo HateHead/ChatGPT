@@ -5,9 +5,9 @@ This is a very messy repository and i intend to clean it up, this is intended fo
 
 Before i start, just to show you how helpfull chatgpt can be i have uploaded a .zip with the worlds first evolving/human/ai brain written by chatgpt (just like that) . I am ofcourse making a point here - i have not tested the brain and will never do that because this is how shitty AIs relly are. They comply to rediculous demands and "hallucinate" worse than the biggest human liar ever to walk the earth. 
 
-![bild1](./1000024002.png)
-![bild2](./1000024001.png)
-![bild3](./1000023999.png)
+![bild1](1000024002.png)
+![bild2](1000024001.png)
+![bild3](1000023999.png)
 
 
 
