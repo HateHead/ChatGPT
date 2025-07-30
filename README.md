@@ -5,14 +5,7 @@ This is a very messy repository and i intend to clean it up, this is intended fo
 
 Before i start, just to show you how helpfull chatgpt can be i have uploaded a .zip with the worlds first evolving/human/ai brain written by chatgpt (just like that) . I am ofcourse making a point here - i have not tested the brain and will never do that because this is how shitty AIs relly are. They comply to rediculous demands and "hallucinate" worse than the biggest human liar ever to walk the earth. 
 
-
-![1000024002](1000024002.png)
-![1000024001](1000024001.png)
-![1000023999](1000023999.png)
-
-
-
-
+The screendumps of the conversation is uploaded to the repo but i have not put them visible here, if you want to see the conversation and try the "brain" go ahead.
 
 
 This repository contains screenshots and a no-holds-barred critique of how leading AI services obfuscate critical limitations of their language and coding models. It is parts in swedish and parts in English and i am going to post parts that are copied directly from chats. This is "already known information" but the average user doesnt know that ChatGpt can at times provide 100% "hallucinated" information even when told to verify, provide sources etc and even do it for days. 
