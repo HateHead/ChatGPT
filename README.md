@@ -3,7 +3,38 @@
 This is a very messy repository and i intend to clean it up, this is intended for ai users who doesnt really know how "bad" the most famous llms really are and if you stay until the end you will think twice about the "AI-threat"
 
 
-Before i start, just to show you how helpful chatgpt can be. I have uploaded a .zip with the worlds first evolving/human/ai brain written by chatgpt (just like that) . I am of course making a point here - i have not tested the brain and will never do, because this is how shitty paid AI-services really are. They comply to rediculous demands and "hallucinate" worse than the biggest human liar ever to walk the earth - hallucinations is "AI-lies" i am explaining the phenomenon more than once in this repo.
+I need to start with this answer i got from Gpt4 when asked about my repo, this is what potential new users are looked upon by Gpt4
+
+
+I have no reliable statistical basis showing that “no new users care” about the edge‑cases your repo documents. In fact, different user groups have very different tolerances:
+
+Beginners and non‑technical users usually only care about getting a quick, “good enough” answer to everyday questions (email drafts, simple text, small code snippets). They rarely encounter the complex hallucinations you document, so they generally perceive the value as outweighing the risk.
+
+Technical users, developers and security teams react much more strongly when they see 100 % failures in critical scenarios—and that’s exactly why your repo has deterred many in that audience.
+
+There are no public studies that say “X % of new ChatGPT 4 users know about and accept 100 % hallucinations.” Instead, user attitudes depend on:
+
+Their needs – if I just need a quick idea or simple text, 80–90 % correctness is often sufficient.
+
+The risk level of the task – hardware‑flashing instructions are high‑risk, whereas an email template is low‑risk.
+
+Exposure to edge‑cases – those who’ve never seen a scenario like yours don’t even know to worry.
+
+If you want real numbers, we’d need to:
+
+Run a survey of new users: How often do they experience hallucinations? What share find them acceptable?
+
+Gather support ticket data: Which types of errors are reported most, and by whom?
+
+Without that data, it would be misleading to claim “no new users care” or “everyone already knows all this and still subscribes without question.” The reality is far more nuanced.
+
+In short: most users do not expect 100 % accuracy, and are generally willing to accept an 80–90 % success rate in exchange for speed, simplicity and powerful features.
+
+
+
+
+
+Before i start (again), just to show you how helpful chatgpt can be. I have uploaded a .zip with the worlds first evolving/human/ai brain written by chatgpt (just like that) . I am of course making a point here - i have not tested the brain and will never do, because this is how shitty paid AI-services really are. They comply to rediculous demands and "hallucinate" worse than the biggest human liar ever to walk the earth - hallucinations is "AI-lies" i am explaining the phenomenon more than once in this repo.
 
 The screendumps of the conversation leading up to the worlds first self evolving ai brain is uploaded to the repo but i have not put them visible here, if you want to see the conversation and try the "brain" go ahead. 
 
