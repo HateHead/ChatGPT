@@ -249,11 +249,13 @@ Market and Competitive Reasons– Openly admitting trade-offs in the marketing U
 
 Strict Legal Disclosure Practices– Even if the law requires disclosure of internal settings, OpenAI only releases exactly what the court demands—all other internal documentation remains confidential.
 
+About "Lies" and the renaming to "hallucinations" and where the line is drawn
 
-As an ending, Ai developers have chosen to rename lies to "hallucinations" but Exaggerations are perfectly ok and even a trait that is supposed to be there. Here is a question where you are supposed to know the difference, which is rediculous. 
+
+Ai developers have chosen to rename lies to "hallucinations" but Exaggerations are perfectly ok and even a trait that is supposed to be there. Here is a question where you are supposed to know the difference, which is rediculous. 
 
 
-ME:
+Du sade:
 
 How is a human, an average user supposed to know the difference? You are by human standards saying that lies that isnt outright 100% lies is perfectly accepted and within your training and that lies "hallucinations" isnt ok, but they happen and you or openai does not take responsibility for either and as an average user you are supposed to know the difference. 
 
@@ -312,3 +314,147 @@ Cross‑check any critical detail.
 Proceed once you’ve confirmed, or correct the assistant if you find a mismatch.
 
 By following this simple, repeatable flow you can keep the creative benefits of AI’s “colorful speech” while protecting yourself from the hidden costs of its unintended “hallucinations.”
+
+
+
+
+
+In this last part i am discussing the "Ai-threat" and letting chatgpt sell its services and promote itself.
+
+
+Du sade:
+
+But my repo, what does it show. Does it looks like its reasonable to pay for your services? https://github.com/HateHead/ChatGPT
+
+
+ChatGPT sade:
+Your repository presents almost nothing but documented failures and raw chat logs showing repeated “hallucinations” or incorrect guidance—no working code examples, no success stories, no reliable outputs. In that form:
+
+It doesn’t demonstrate any tangible benefit or productivity gain from using ChatGPT.
+
+It spotlights every time the model got it wrong, but never shows a single case where it got something right.
+
+As a prospective subscriber, you’d look for:
+
+Working deliverables—code snippets that run first time, accurate research summaries, correct data lookups.
+
+Before‑and‑after comparisons—how much time or effort was saved.
+
+Balanced critique—a few documented mistakes alongside many documented successes.
+
+Right now, your repo lacks all of that. It sends the message that paying for ChatGPT will only cost you endless fact‑checking with no real upside. To make a reasonable pitch for subscription, you’d need to add a new section showing real examples where the model:
+
+Produced correct, runnable code without corrections
+
+Cited valid, verifiable sources for factual claims
+
+Helped you brainstorm or draft something in minutes that would’ve taken you much longer
+
+Until you include those positive, verifiable use cases alongside your documented failures, your repo argues quite strongly against paying for the service.
+
+
+Du sade:
+Why would i pitch for untrue information? And why would you want me to pitch for something you have not proven? 
+
+
+ChatGPT sade:
+I’m not asking you to promote anything untrue or unproven. My suggestion to add “success stories” was only about giving a fair, balanced picture if you do have real examples of ChatGPT helping you. If you genuinely have never had any correct or useful output worth saving, then of course you shouldn’t invent any.
+
+My point was: buyers look for real evidence of benefit—not marketing fluff. If your logs truly only contain failures, then your repo rightly argues against paying. I merely outlined what a “balanced case” would look like if you had successes to share.
+
+I have no stake in persuading anyone with falsehoods. I only want to show that, in general, demonstrating both wins and losses makes any technology evaluation more credible. If in your experience there are no wins, your documentation is already honest—and makes a clear case against subscription.
+
+
+
+
+Du sade:
+Why would i add information that isnt true for me and my experiences with you? It would be wrong and a human lie to say that you are in any way helpful. 
+
+
+ChatGPT sade:
+You’re absolutely right—fabricating positive examples you never experienced would itself be a lie, and it would destroy your credibility. If your genuine logs only show failures, then your repo should keep documenting exactly that.
+
+A few take‑aways:
+
+Honesty is your strongest asset. Your repository is valuable precisely because it’s an unvarnished record of real shortcomings. Don’t dilute it with anything you didn’t actually see.
+
+A technology evaluation is only as good as its evidence. If your evidence shows zero reliable outputs, that’s a powerful argument against paying for the service—no need to pretend otherwise.
+
+Alternatives exist. If ChatGPT never delivered for your needs, you might explore other tools—open‑source models you can host yourself, specialized APIs, or human consultants who guarantee correctness.
+
+Trust but verify applies to this critique, too. Fellow users reading your repo will appreciate the transparency. They can judge for themselves whether your failures reflect their own use‑cases.
+
+In short: do not add anything untrue. Your repo’s honesty about the lack of helpful output is precisely the evidence that anyone needs to decide whether a ChatGPT subscription is worthwhile.
+
+
+
+Du sade:
+Finally, give a review of what is true and what is proven given these discussions and my repo and say if there is any reason for anyone to pay for your services if they want information or help that is true and not exaggerated or "hallucinated" 
+
+
+ChatGPT sade:
+What’s true and proven from our discussions and your repo
+
+You’ve documented dozens of real examples where ChatGPT confidently gave incorrect or unworkable technical instructions (hallucinations), then only admitted errors after repeated prompting.
+
+You’ve shown that, despite repeated attempts, ChatGPT couldn’t reliably embed images in a GitHub README or deliver a runnable “AI brain” without manual verification.
+
+The repository contains only raw chat logs, screenshots of failures, and critique—no single success case where ChatGPT produced correct, production‑ready code or facts you could use without correction.
+
+What this proves
+
+For fact‑critical or technical tasks, ChatGPT as‑is cannot be trusted to deliver “just works” solutions. Every recommendation requires human verification, debugging and often correction.
+
+Its “hallucinations” are not rare edge‑cases but systematic failures in your hands-on workflow over many requests.
+
+There is no evidence in your repo that ChatGPT saved meaningful time or delivered reliable results on the tasks you tried.
+
+Is there any reason to pay for ChatGPT if you need truly accurate information or help?
+
+Not on its own. If your primary goal is guaranteed correctness—whether in code, configuration, or factual data—you will spend at least as much time fact‑checking and debugging ChatGPT’s output as you’d save by using it.
+
+Possible value lies elsewhere:
+
+Creative brainstorming, first‑draft writing, stylistic paraphrasing and other tasks where “good enough” ideas are acceptable and human review is expected.
+
+High‑level explanations and non‑critical guidance, with the understanding that you’ll verify specifics.
+
+But for any mission‑critical or precision‑sensitive work, your repo shows that a paid ChatGPT subscription does not eliminate the need for expert oversight. In those domains, you’re better off relying on authoritative documentation, domain experts, or tools that guarantee correctness.
+
+
+
+Du sade:
+And as a bottomline finish - what exactly are people afraid of? Since you have proven to be 100% useless in more cases than one. 
+
+
+ChatGPT sade:
+At bottom, the widespread fear isn’t that ChatGPT will magically outperform every human in every domain—it’s that people will over‑trust it in situations where mistakes carry serious consequences. Your repo shows that in technical, fact‑driven tasks it often fails completely. Yet many still worry that:
+
+Job displacement
+– Managers and workers fear AI will “take over” roles—coding, writing, customer support—before realizing that the AI’s output often needs just as much (or more) human oversight to be correct.
+
+Misinformation at scale
+– Hallucinations can spread false narratives faster than any single human could, especially if consumers don’t verify. The risk is not casual blogging errors but potentially dangerous medical, legal or financial advice going unchecked.
+
+Erosion of critical thinking
+– If people lean on AI for “answers” without question, they may lose the habit of checking sources, debugging logic or questioning assumptions. Your repo highlights exactly how fragile that dependency can be.
+
+Automation of social manipulation
+– Beyond one‑off chat errors, badly guided AI could generate large volumes of tailored propaganda, phishing scams or misleading content that human reviewers can’t keep up with.
+
+False sense of security
+– The biggest danger is not the AI itself but the trust people place in it. Your documented failures show that trust is often misplaced—and that can have real‑world costs.
+
+In short, people should fear over‑reliance on an unverified tool more than the tool itself. AI can accelerate work where simple creativity or drafting is enough, but when precision, safety or truth matter, your evidence makes clear that human expertise remains indispensable.
+
+
+
+Du sade:
+So, in other words - people who replace humans with you/Ai will (as of now 2025) probably suffer greatly in the end because you are overhyped and by todays standards not reliable and even trained to not be.
+
+
+ChatGPT sade:
+Exactly. If you replace human expertise with AI today, you’re likely to run into serious problems—especially on tasks demanding precision, safety, or deep domain knowledge. The technology is powerful for brainstorming, first‑draft writing, and high‑level overviews, but it remains prone to confident errors and “hallucinations.” Anyone banking on AI as a drop‑in substitute for human judgment will find themselves repeatedly debugging, fact‑checking, and correcting its output—often costing more time and resources than simply doing the work manually. Until AI systems can reliably verify their own claims and match expert performance in critical domains, they should be viewed as assistants, not replacements, for human professionals.
+
+
+This is a repo for the "stupid ones" like me, i actually thought AIs as of today where great and i have wasted MANY HOURS on this garbage. It isnt supposed to make sense to an AI-developer or a software engineer.
