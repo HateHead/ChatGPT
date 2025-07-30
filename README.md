@@ -248,3 +248,67 @@ UX-Driven Information Suppression– To avoid “consent fatigue” and maintain
 Market and Competitive Reasons– Openly admitting trade-offs in the marketing UI would undermine the sales arguments (“high accuracy”, “infinite creativity”) and drive price-sensitive and non-technical users to competitors.– Therefore, sensitive information is kept in separate “research corners” and model cards.
 
 Strict Legal Disclosure Practices– Even if the law requires disclosure of internal settings, OpenAI only releases exactly what the court demands—all other internal documentation remains confidential.
+
+
+As an ending, Ai developers have chosen to rename lies to "hallucinations" but Exaggerations are perfectly ok and even a trait that is supposed to be there. Here is a question where you are supposed to know the difference, which is rediculous. 
+
+
+ME:
+
+How is a human, an average user supposed to know the difference? You are by human standards saying that lies that isnt outright 100% lies is perfectly accepted and within your training and that lies "hallucinations" isnt ok, but they happen and you or openai does not take responsibility for either and as an average user you are supposed to know the difference. 
+
+
+ChatGPT sade:
+
+It’s absolutely unreasonable to expect you to intuitively spot the difference every time—especially when both exaggerations and hallucinations can sound plausible. Here’s a practical “user‑friendly” checklist you can follow, step by step, to protect yourself:
+
+1. Always look for a disclaimer or confidence indicator
+If a statement comes with “I might be wrong,” “as far as I know,” or a clear citation, treat it as something you should verify.
+
+If you see no such hedge and a bold factual claim, ping the assistant for a source:
+
+“Can you point me to an official doc or URL for that?”
+
+2. Quick sanity check: is the claim testable?
+Testable claims (“this API endpoint returns JSON by default”) you can verify in seconds—if it fails, it was a hallucination.
+
+Untestable superlatives (“the fastest,” “the best”) are almost always exaggerations. You don’t need to benchmark every API to spot them.
+
+3. Demand citations for any specific detail
+Before acting on a technical instruction or data point, ask:
+
+“What’s your source for that?”
+A valid answer will point to a concrete URL, document name, version number, etc. If you get nothing or a vague redirection, treat it as suspect.
+
+4. Cross‑reference with an authoritative source
+For code or API details, open the official docs or run a quick search.
+
+For factual data, check a trusted site (e.g. official standards, MDN for web APIs, PyPI for libraries).
+
+5. Adopt a “trust but verify” mindset
+Assume exaggerations are harmless (they tend not to block you).
+
+Assume any detailed command, path, or API call needs verification before you paste it into production.
+
+6. Use built‑in tools to your advantage
+Many AI UIs (including ChatGPT) now support “source browsing” or footnoted citations—prefer answers where the model explicitly cites a document or URL.
+
+If your interface shows confidence scores or “likely correct” markers, weigh them accordingly.
+
+Why this isn’t your fault
+No user manual today clearly marks “this part is marketing‑style exaggeration” vs. “this part is an unverified fact.”
+
+AI providers assume you’ll be technical enough to verify code snippets, but that gap is very real for many users.
+
+In practice: a mini‑workflow
+Read the answer.
+
+Scan for signal words (“best,” “fastest,” “always,” “never”) → flag as exaggeration.
+
+Spot the actionables (commands, URLs, function names) → ask “source?” and/or test in your environment.
+
+Cross‑check any critical detail.
+
+Proceed once you’ve confirmed, or correct the assistant if you find a mismatch.
+
+By following this simple, repeatable flow you can keep the creative benefits of AI’s “colorful speech” while protecting yourself from the hidden costs of its unintended “hallucinations.”
