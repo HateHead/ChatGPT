@@ -6,6 +6,8 @@ This is a very messy repository and i intend to clean it up, this is intended fo
 I need to start with this answer i got from Gpt4 when asked about my repo, this is what is expected from users according to chatGpt. It is quite obvious that paying costumers are looked upon as morons that is ok with alot of errors and should be perfectly fine paying for a service that does not provide what it is advertised as. 
 
 
+Chatgpt:
+
 I have no reliable statistical basis showing that “no new users care” about the edge‑cases your repo documents. In fact, different user groups have very different tolerances:
 
 Beginners and non‑technical users usually only care about getting a quick, “good enough” answer to everyday questions (email drafts, simple text, small code snippets). They rarely encounter the complex hallucinations you document, so they generally perceive the value as outweighing the risk.
