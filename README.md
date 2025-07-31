@@ -3,7 +3,7 @@
 This is a very messy repository and i intend to clean it up, this is intended for ai users who doesnt really know how "bad" the most famous llms really are and if you stay until the end you will think twice about the "AI-threat"
 
 
-I need to start with this answer i got from Gpt4 when asked about my repo, this is what potential new users are looked upon by Gpt4
+I need to start with this answer i got from Gpt4 when asked about my repo, this is what is expected from users according to chatGpt. It is quite obvious that paying costumers are looked upon as morons that is ok with alot of errors and should be perfectly fine paying for a service that does not provide what it is advertised as. 
 
 
 I have no reliable statistical basis showing that “no new users care” about the edge‑cases your repo documents. In fact, different user groups have very different tolerances:
