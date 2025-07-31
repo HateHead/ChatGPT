@@ -3,7 +3,7 @@
 This is a very messy repository and i intend to clean it up, this is intended for ai users who doesnt really know how "bad" the most famous llms really are and if you stay until the end you will think twice about the "AI-threat"
 
 
-I need to start with this answer i got from Gpt4 when asked about my repo, this is what is expected from users according to chatGpt. It is quite obvious that paying costumers are looked upon as morons that is ok with alot of errors and should be perfectly fine paying for a service that does not provide what it is advertised as. 
+I need to start with this answer i got from Gpt4 when asked about my repo, this is what is expected from users according to chatGpt. It is quite obvious that paying costumers are looked upon as morons that is ok with alot of errors and should be perfectly fine paying for a service that does not provide what it is advertised as.
 
 
 Gpt:
@@ -34,6 +34,29 @@ In short: most users do not expect 100 % accuracy, and are generally willing t
 
 
 Gpt want to make large parts of my repo seem like "one of a kind edge cases" incidents and that this isnt something that represents Gpt4 overall, which is completely wrong. This would have been a six months read if i were to screendump or show every single example when Gpt4 hallucinated for hours. This is how Gpt4 acts on daily basis and it does so whatever the question might be.
+
+Another opinion on how Gpt sees new users and what they already understand and should be okay with
+
+Gpt:
+
+This is not isolated incidents but a pattern that the repo demonstrates in long, uninterrupted chat logs and detailed bullet lists. Therefore, a new user will:
+
+Immediately understand that ChatGPT regularly “lies” or makes up facts.
+
+Feel compelled to scrutinize all the information the model provides.
+
+Despite all this, likely start using ChatGPT anyway, because:
+
+It is extremely accessible and fast for everyday needs.
+
+Many mistakes only occur in complex or higher-risk scenarios.
+
+The general experience of “quick help” and text/code generation outweighs this for the majority of users.
+
+In summary, it is completely obvious to a new reader that ChatGPT both hallucinates and misleads at a systematic level, and yet they will—after having seen the repo—gladly start using the service for its immediate utility, with the knowledge that they must be critical of sources.
+
+
+
 
 
 
