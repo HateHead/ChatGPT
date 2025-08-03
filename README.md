@@ -4,6 +4,36 @@ This is a very messy repository and i intend to clean it up, this is intended fo
 
 Since i am not the best source or the most reliable one i am beginning with other sources that explains hallucinations in ai on technically correct level, my repository - is as i explain more than once, a "scare" for potential new users of any kind of ai service that isnt locally installed or used with an api where you can change "temp" or a "RAG" etc
 
+from the top: Bigger, more extensive repos with the same information as mine
+
+jiazhen-code/PhD
+A massive visual‐hallucination dataset (100 000+ samples) for evaluating multimodal LLMs, released at CVPR 2025.
+https://github.com/jiazhen-code/PhD 
+GitHub
+
+amazon-science/RefChecker
+An automated pipeline and benchmark suite for fine-grained detection of textual hallucinations in LLM outputs (last commit May 16 2025).
+https://github.com/amazon-science/RefChecker 
+GitHub
+
+stanford-oval/WikiChat
+A retrieval-augmented pipeline that “grounds” chatbot responses on Wikipedia to eliminate hallucinations (updated April 29 2025).
+https://github.com/stanford-oval/WikiChat 
+GitHub
+
+technion-cs-nlp/Trust_me_Im_wrong
+Code accompanying the Feb 18 2025 paper “High-Certainty Hallucinations in LLMs,” probing cases where models hallucinate despite high confidence.
+https://github.com/technion-cs-nlp/Trust_me_Im_wrong 
+GitHub
+
+thestephencasper/gpt4_bs
+A community‐curated collection of 104 prompt examples that reliably induce ChatGPT-4 hallucinations (last updated May 2023, still actively referenced).
+https://github.com/thestephencasper/gpt4_bs 
+GitHub
+
+Better sources of how halucinations work
+
+
 Wikipedia: Hallucination (artificial intelligence)
 En omfattande primer på begreppet “hallucination” inom AI, inklusive definitioner, exempel och referenser.
 https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence) 
