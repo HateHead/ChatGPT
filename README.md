@@ -2,6 +2,59 @@
 
 This is a very messy repository and i intend to clean it up, this is intended for ai users who doesnt really know how "bad" the most famous llms really are and if you stay until the end you will think twice about the "AI-threat"
 
+Since i am not the best source or the most reliable one i am beginning with other sources that explains hallucinations in ai on technically correct level, my repository - is as i explain more than once, a "scare" for potential new users of any kind of ai service that isnt locally installed or used with an api where you can change "temp" or a "RAG" etc
+
+Wikipedia: Hallucination (artificial intelligence)
+En omfattande primer på begreppet “hallucination” inom AI, inklusive definitioner, exempel och referenser.
+https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence) 
+Wikipedia
+Wikipedia
+
+OpenAI Community: How to Reduce Hallucinations in ChatGPT Responses
+Officiellt Community-inlägg från OpenAI där man diskuterar tekniker för att minska hallucinationer i datafrågor.
+https://community.openai.com/t/how-to-reduce-hallucinations-in-chatgpt-responses-to-data-queries/900796 
+community.openai.com
+
+arXiv: A Survey on Hallucination in Large Language Models
+En forskningsöversikt som granskar taxonomy, orsaker, detektionsmetoder och mitigering för LLM-hallucinationer.
+https://arxiv.org/abs/2311.05232 
+arXiv
+
+Stanford HAI: WikiChat – Stopping the Hallucination of Large Language Model Chatbots
+Forskningsprojekt som använder få-shot grounding på Wikipedia för att nästan helt eliminera hallucinationer.
+https://hai.stanford.edu/research/wikichat-stopping-the-hallucination-of-large-language-model-chatbots-by-few-shot-grounding-on-wikipedia 
+hai.stanford.edu
+
+Google Cloud: What are AI hallucinations?
+En förklarande sida som beskriver mekanismer bakom hallucinationer och hur man kan undvika dem med Vertex AI m.fl.
+https://cloud.google.com/discover/what-are-ai-hallucinations 
+Google Cloud
+
+AWS Machine Learning Blog: Reducing hallucinations in large language models with custom intervention using Amazon Bedrock Agents
+Praktiskt exempel på RAG-arkitektur och interventionsstrategier i Bedrock för att minska hallucinationer.
+https://aws.amazon.com/blogs/machine-learning/reducing-hallucinations-in-large-language-models-with-custom-intervention-using-amazon-bedrock-agents/ 
+Amazon Web Services
+
+MIT Sloan School: When AI Gets It Wrong: Addressing AI Hallucinations and Bias
+Grundläggande introduktion till hallucinationer och bias i generativa AI-system, med rekommendationer för ansvarsfull användning.
+https://mitsloanedtech.mit.edu/ai/basics/addressing-ai-hallucinations-and-bias/ 
+mitsloanedtech.mit.edu
+
+Red Hat Blog: When LLMs day dream: Hallucinations and how to prevent them
+Teknisk genomgång av orsaker och mitigeringstekniker för hallucinationer i generativa modeller, särskilt i hög-riskmiljöer.
+https://www.redhat.com/en/blog/when-llms-day-dream-hallucinations-how-prevent-them 
+redhat.com
+
+Financial Times: The 'hallucinations' that haunt AI: why chatbots struggle to tell the truth
+Analys av branschens strategier för att hantera de inneboende begränsningarna i prediktiv textgenerering.
+https://www.ft.com/content/7a4e7eae-f004-486a-987f-4a2e4dbd34fb 
+Financial Times
+
+LiveScience: AI hallucinates more frequently as it gets more advanced – is there any way to stop it?
+Populärvetenskaplig genomgång av varför hallucinationer ökar i moderna AI-system och vilka strategier som kan minska dem.
+https://www.livescience.com/technology/artificial-intelligence/ai-hallucinates-more-frequently-as-it-gets-more-advanced-is-there-any-way-to-stop-it-from-happening-and-should-we-even-try 
+Live Science
+
 
 I need to start with this answer i got from Gpt4 when asked about my repo, this is what is expected from users according to chatGpt. It is quite obvious that paying costumers are looked upon as morons that is ok with alot of errors and should be perfectly fine paying for a service that does not provide what it is advertised as.
 
