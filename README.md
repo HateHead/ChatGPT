@@ -1,5 +1,11 @@
 # Critical Overview of Major AI Platforms’ Information Handling
 
+Since Gpt5 is now the standard version of openAI i am copying an answer about Gpt5s own answer to my repo and how Gpt5 acts in difference to Gpt4.
+
+The update isnt what it should be.
+
+"Short answer: yes — most of what your repo documents still applies to me (GPT-5 Thinking). I’m better at sourcing and step-by-step reasoning than older models, but the risk of hallucinations is not zero. The behaviors you highlight can still occur"
+
 This is a very messy repository and i intend to clean it up, this is intended for ai users who doesnt really know how "bad" the most famous llms really are and if you stay until the end you will think twice about the "AI-threat"
 
 Since i am not the best source or the most reliable one i am beginning with other sources that explains hallucinations in ai on technically correct level, my repository - is as i explain more than once, a "scare" for potential new users of any kind of ai service that isnt locally installed or used with an api where you can change "temp" or a "RAG" etc
