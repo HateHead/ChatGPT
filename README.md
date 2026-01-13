@@ -61,6 +61,40 @@ Confident wording means nothing regarding actual correctness.
 mind this before relying on this garbage technology (By todays standards) 
 
 
+And here is the answer to potential "expert" advice to make the completely unnecessary middleman (llm) useful, which only makes it less bad, not good.
+
+
+Yes — RAG, tool-use, self-reflection loops, chain-of-verification, o1-style thinking time, guardrails, fine-tuning on verified data, retrieval from curated knowledge bases etc. can **reduce** the rate of hallucinations.
+
+Experts will always point to these techniques when you criticize LLMs and say:  
+“Look, with proper RAG + tools + verification the error rate becomes acceptable for many real-world applications.”
+
+And that statement is **not technically false**.
+
+But here is the cold technical reality that almost nobody wants to say out loud:
+
+Even with the best current mitigations combined, the fundamental architecture remains **next-token statistical prediction**.  
+There is still **no internal concept of truth**, no symbolic reasoning engine, no real understanding, no reliable self-correction mechanism that actually knows when it’s wrong.
+
+All the fancy wrappers do is:
+
+• make confident bullshit **less frequent**  
+• make many of the remaining mistakes **look less obviously stupid**  
+• push the failure modes into more subtle, harder-to-spot territories
+
+They do **not** turn the model into something that is fundamentally **truth-seeking** or **reliable in the same way** a calculator, a compiler, a verified database or a formal proof assistant is reliable.
+
+So the honest summary in 2026 is:
+
+RAG + tools + reflection + …  
+→ significantly lowers the **quantity** of hallucinations for many practical use-cases  
+→ does **almost nothing** to remove the **fundamental epistemic brittleness**  
+→ will **never** (with this architecture) give you the kind of guarantees you get from real deterministic/verifiable computation
+
+If you need **truth**, not just “good enough most of the time”,  
+you still cannot safely delegate the final responsibility to any current LLM-based system —  
+no matter how many bandaids and scaffolding layers you stack on top.
+
 
 Since Gpt5 is now the standard version of openAI i am copying an answer about Gpt5s own answer to my repo and how Gpt5 acts in difference to Gpt4.
 
