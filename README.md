@@ -1,5 +1,67 @@
 # Critical Overview of Major AI Platforms’ Information Handling
 
+I am changing the beginning of this to only in as easy terms as possible explain just how dangerous ais "llms" and the companies pushing them are, thwy are not evolving and current versions never will, neither will we see AGI in many many years, not one single company is close, even if they do lie so.
+
+
+
+An AI of the LLM type (like ChatGPT) is not a thinking system.
+It is not logical in the sense of being correct.
+It is not accurate.
+
+An LLM works by statistically guessing which word is most likely to come next,
+based on enormous amounts of previous text.
+It doesn't follow true rules — it follows probabilities.
+
+Logical programs (calculators, code, databases, algorithms):
+- follow exact mathematical and logical rules
+- give the same answer every time for the same input
+- contain no guessing
+- have no margin of error if the program is correct
+
+An LLM:
+- doesn't calculate
+- doesn't verify
+- doesn't know whether an answer is right or wrong
+- cannot detect its own mistakes
+- can produce a completely wrong answer that sounds perfectly correct
+
+When an LLM is used instead of a real tool,
+an extra layer of guessing is inserted between you and the result.
+
+This means:
+- higher risk of errors
+- no increase in precision
+- no guarantee of correctness
+
+Even when an LLM uses programs internally,
+it is only an intermediary that:
+- misinterprets the question
+- sends incorrect instructions
+- misinterprets the result
+- presents an answer that may be wrong without noticing it
+
+A real program calculates.
+An LLM tries to remember what an answer usually looks like.
+
+Therefore the rule is:
+As soon as you need an exact, correct and reliable answer,
+you should not use an LLM at all.
+
+Use the tool yourself.
+AI only adds uncertainty, never precision.
+
+Non-determinism
+The same question can produce different answers at different times.
+This makes LLMs unsuitable even when they happen to give the right answer sometimes.
+No internal truth-checking
+
+An LLM lacks any internal concept of “this is verified true”.
+Confident wording means nothing regarding actual correctness.
+
+mind this before relying on this garbage technology (By todays standards) 
+
+
+
 Since Gpt5 is now the standard version of openAI i am copying an answer about Gpt5s own answer to my repo and how Gpt5 acts in difference to Gpt4.
 
 The update isnt what it should be.
