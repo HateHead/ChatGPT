@@ -1,6 +1,6 @@
 # Critical Overview of Major AI Platforms’ Information Handling
 
-I am changing the beginning of this to only in as easy terms as possible explain just how dangerous ais "llms" and the companies pushing them are, thwy are not evolving and current versions never will, neither will we see AGI in many many years, not one single company is close, even if they do lie so.
+I am changing the beginning of this to only in as easy terms as possible explain just how dangerous ais "llms" and the companies pushing them are, they are not evolving and current versions never will, neither will we see AGI in many many years, not one single company is close, even if they do lie that they are.
 
 
 
@@ -91,7 +91,7 @@ RAG + tools + reflection + …
 → does **almost nothing** to remove the **fundamental epistemic brittleness**  
 → will **never** (with this architecture) give you the kind of guarantees you get from real deterministic/verifiable computation
 
-If you need **truth**, not just “good enough most of the time”,  
+If you need **truth**, not just “good enough some of the time”,  
 you still cannot safely delegate the final responsibility to any current LLM-based system —  
 no matter how many bandaids and scaffolding layers you stack on top.
 
@@ -100,7 +100,7 @@ Since Gpt5 is now the standard version of openAI i am copying an answer about Gp
 
 The update isnt what it should be.
 
-"Short answer: yes — most of what your repo documents still applies to me (GPT-5 Thinking). I’m better at sourcing and step-by-step reasoning than older models, but the risk of hallucinations is not zero. The behaviors you highlight can still occur"
+"Short answer: yes — most of what your repo documents still applies to me (GPT-5 Thinking). I’m better at sourcing and step-by-step reasoning than older models, but the risk of hallucinations is not zero, not even close. The behaviors you highlight often still occur"
 
 This is a very messy repository and i intend to clean it up, this is intended for ai users who doesnt really know how "bad" the most famous llms really are and if you stay until the end you will think twice about the "AI-threat"
 
